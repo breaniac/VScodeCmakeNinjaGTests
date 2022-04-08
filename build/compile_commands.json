@@ -1,0 +1,37 @@
+[
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I../External/googletest/googletest/include -I../External/googletest/googlemock/include -g -std=gnu++11 -o CMakeFiles\\CPP_PRJ.dir\\src\\Exam.cpp.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\src\\Exam.cpp",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/src/Exam.cpp"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I../External/googletest/googletest/include -I../External/googletest/googlemock/include -g -std=gnu++11 -o CMakeFiles\\mainTest.dir\\main.cpp.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\main.cpp",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/main.cpp"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -isystem ../External/googletest/googletest/include -isystem ../External/googletest/googlemock/include -isystem ../External/googletest/googlemock -isystem ../External/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o External\\googletest\\googlemock\\CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\External\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/External/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I../External/googletest/googlemock/include -I../External/googletest/googlemock -isystem ../External/googletest/googletest/include -isystem ../External/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o External\\googletest\\googlemock\\CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\External\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/External/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I../External/googletest/googletest/include -I../External/googletest/googlemock/include -I../External/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o External\\googletest\\googletest\\CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\External\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/External/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -I../External/googletest/googlemock/include -isystem ../External/googletest/googletest/include -isystem ../External/googletest/googletest -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++11 -o External\\googletest\\googletest\\CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\External\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/External/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "C:/Users/serge/source/VS_Code/CPP_Prj/build",
+  "command": "C:\\msys64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe -isystem ../External/googletest/googletest/include -isystem ../External/googletest/googlemock/include -isystem ../External/googletest/googletest -isystem ../External/googletest/googlemock -g -std=gnu++11 -o Tests\\CMakeFiles\\ExampleTest.dir\\ExamTests.cpp.obj -c C:\\Users\\serge\\source\\VS_Code\\CPP_Prj\\Tests\\ExamTests.cpp",
+  "file": "C:/Users/serge/source/VS_Code/CPP_Prj/Tests/ExamTests.cpp"
+}
+]
